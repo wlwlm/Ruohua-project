@@ -1,0 +1,19 @@
+# Unreal Engine generated files
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+# IDE generated files
+**/.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Local build and cache artifacts
+**/Build/Android_ASTC/FileOpenOrder/
+*.log
+*.tmp
